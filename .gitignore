@@ -32,3 +32,4 @@ _ReSharper*/
 packages/
 
 .idea/*
+/__pycache__/TVDBScrape.cpython-37.pyc
